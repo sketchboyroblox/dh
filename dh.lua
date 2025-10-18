@@ -65,14 +65,14 @@ end
 
 local function initializeMessageVariations()
     local baseMessages = {
-        "BRO THEY ARE ON CAM LOOOLO /mhm",
-        "bro what are they doing on vc?☠️ /mhm",
-        "SHES TUUCHING HE RSELF /mhm",
-        "ageplayer heaven in /mhm",
-        "ageplay and cnc in chat/call ;3 /mhm",
-        "get active /mhm",
-        "add shame18 if you want $$",
-        "hi shame18 for promo like this"
+        "BRO THEY ARE ON CAM LOOOLO /relief",
+        "bro what are they doing on vc?☠️ /relief",
+        "SHES TUUCHING HE RSELF /relief",
+        "ageplayer heaven in /relief",
+        "ageplay and cnc in chat/call ;3 /relief",
+        "get active /relief",
+        "addddd shame18 if you want $$",
+        "hiuii shame18 for promo like this"
     }
     
     messageVariations = {}
@@ -545,3 +545,4 @@ local function initialize()
 end
 
 initialize()
+
